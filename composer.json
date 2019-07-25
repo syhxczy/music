@@ -1,0 +1,12 @@
+{
+    "name": "admin/music",
+    "authors": [
+        {
+            "name": "syh",
+            "email": "xiaoling02ban@qq.com"
+        }
+    ],
+    "require": {
+        "curl/curl": "^2.2"
+    }
+}
